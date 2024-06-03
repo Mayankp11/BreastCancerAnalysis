@@ -52,4 +52,4 @@ To replicate the project's results, ensure all required libraries are installed 
   - [Pandas](https://pandas.pydata.org/docs/)
   - [scikit-learn](https://scikit-learn.org/stable/documentation.html)
 
-This project was completed as part of a machine learning course and serves as an example of applying the kNN algorithm for breast cancer detection.
+This project was completed as part of a data science course at The University of Texas at San Antonio and serves as an example of applying the kNN algorithm for breast cancer detection.
